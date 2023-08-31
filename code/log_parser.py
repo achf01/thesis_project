@@ -4,7 +4,7 @@ if len(sys.argv) < 2:
     print(f"Usage {sys.argv[0]} inputFile")
     exit(1)
 
-data=""# tuple (seqn, rssi, lqi)
+data=""
 file=open(sys.argv[1], 'r')
 file1=open("data.csv", "a")
 for line in file:
