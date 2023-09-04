@@ -1,0 +1,1872 @@
+---------------------------data_csv/2d/data1_2.csv-------------------------
+-----------DT-----------
+Training Data: (48458, 2)
+Testing Data: (5385, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:68.25 P:67.02 R:65.18 F1:6608.72
+-----------NB-----------
+Training Data: (48458, 2)
+Testing Data: (5385, 2)
+Model:GaussianNB()
+A:59.05 P:66.83 R:27.27 F1:3873.44
+-----------RF-----------
+Training Data: (48458, 2)
+Testing Data: (5385, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:71.62 P:72.58 R:64.63 F1:6837.47
+-----------MLP-----------
+Training Data: (48458, 2)
+Testing Data: (5385, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:61.54 P:59.95 R:57.16 F1:5852.18
+---------------------------data_csv/2d/data3_4.csv-------------------------
+-----------DT-----------
+Training Data: (44416, 2)
+Testing Data: (4936, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:65.86 P:70.75 R:57.66 F1:6353.78
+-----------NB-----------
+Training Data: (44416, 2)
+Testing Data: (4936, 2)
+Model:GaussianNB()
+A:51.48 P:52.69 R:58.05 F1:5524.03
+-----------RF-----------
+Training Data: (44416, 2)
+Testing Data: (4936, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:67.73 P:67.73 R:71.48 F1:6955.45
+-----------MLP-----------
+Training Data: (44416, 2)
+Testing Data: (4936, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:67.97 P:71.4 R:63.24 F1:6707.27
+---------------------------data_csv/2d/data5_6.csv-------------------------
+-----------DT-----------
+Training Data: (48673, 2)
+Testing Data: (5409, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:82.62 P:100.0 R:63.28 F1:7751.1
+-----------NB-----------
+Training Data: (48673, 2)
+Testing Data: (5409, 2)
+Model:GaussianNB()
+A:73.41 P:86.01 R:52.34 F1:6507.79
+-----------RF-----------
+Training Data: (48673, 2)
+Testing Data: (5409, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:82.62 P:100.0 R:63.28 F1:7751.1
+-----------MLP-----------
+Training Data: (48673, 2)
+Testing Data: (5409, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:78.55 P:91.22 R:60.51 F1:7275.72
+---------------------------data_csv/2d/data7_8.csv-------------------------
+-----------DT-----------
+Training Data: (48510, 2)
+Testing Data: (5391, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:67.41 P:69.0 R:52.88 F1:5987.4
+-----------NB-----------
+Training Data: (48510, 2)
+Testing Data: (5391, 2)
+Model:GaussianNB()
+A:58.6 P:52.99 R:88.42 F1:6626.65
+-----------RF-----------
+Training Data: (48510, 2)
+Testing Data: (5391, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:68.87 P:65.07 R:69.75 F1:6732.88
+-----------MLP-----------
+Training Data: (48510, 2)
+Testing Data: (5391, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:60.36 P:55.13 R:74.18 F1:6325.18
+---------------------------data_csv/2d/data9_10.csv-------------------------
+-----------DT-----------
+Training Data: (39313, 2)
+Testing Data: (4369, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:70.13 P:85.11 R:45.45 F1:5925.63
+-----------NB-----------
+Training Data: (39313, 2)
+Testing Data: (4369, 2)
+Model:GaussianNB()
+A:55.62 P:52.72 R:69.25 F1:5986.49
+-----------RF-----------
+Training Data: (39313, 2)
+Testing Data: (4369, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:71.78 P:79.42 R:55.27 F1:6517.99
+-----------MLP-----------
+Training Data: (39313, 2)
+Testing Data: (4369, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:69.21 P:70.65 R:60.87 F1:6539.64
+---------------------------data_csv/2d/data11_12.csv-------------------------
+-----------DT-----------
+Training Data: (39767, 2)
+Testing Data: (4419, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:67.23 P:70.31 R:59.47 F1:6443.73
+-----------NB-----------
+Training Data: (39767, 2)
+Testing Data: (4419, 2)
+Model:GaussianNB()
+A:62.62 P:85.97 R:30.01 F1:4448.97
+-----------RF-----------
+Training Data: (39767, 2)
+Testing Data: (4419, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:69.2 P:68.02 R:72.3 F1:7009.47
+-----------MLP-----------
+Training Data: (39767, 2)
+Testing Data: (4419, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:57.86 P:64.63 R:34.45 F1:4494.36
+---------------------------data_csv/2d/data13_14.csv-------------------------
+-----------DT-----------
+Training Data: (39397, 2)
+Testing Data: (4378, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:67.36 P:64.41 R:79.49 F1:7115.98
+-----------NB-----------
+Training Data: (39397, 2)
+Testing Data: (4378, 2)
+Model:GaussianNB()
+A:53.22 P:52.4 R:83.63 F1:6443.01
+-----------RF-----------
+Training Data: (39397, 2)
+Testing Data: (4378, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:70.37 P:69.13 R:75.02 F1:7195.47
+-----------MLP-----------
+Training Data: (39397, 2)
+Testing Data: (4378, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:54.23 P:55.02 R:52.84 F1:5390.8
+---------------------------data_csv/2d/data15_16.csv-------------------------
+-----------DT-----------
+Training Data: (38014, 2)
+Testing Data: (4224, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:66.36 P:99.7 R:31.78 F1:4819.69
+-----------NB-----------
+Training Data: (38014, 2)
+Testing Data: (4224, 2)
+Model:GaussianNB()
+A:51.89 P:52.45 R:24.66 F1:3354.73
+-----------RF-----------
+Training Data: (38014, 2)
+Testing Data: (4224, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:76.78 P:81.89 R:67.84 F1:7420.58
+-----------MLP-----------
+Training Data: (38014, 2)
+Testing Data: (4224, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:70.29 P:72.95 R:63.03 F1:6762.82
+---------------------------data_csv/2d/data17_18.csv-------------------------
+-----------DT-----------
+Training Data: (26478, 2)
+Testing Data: (2943, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:86.78 P:64.23 R:46.53 F1:5396.57
+-----------NB-----------
+Training Data: (26478, 2)
+Testing Data: (2943, 2)
+Model:GaussianNB()
+A:82.23 P:41.95 R:17.55 F1:2474.7
+-----------RF-----------
+Training Data: (26478, 2)
+Testing Data: (2943, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:85.73 P:84.31 R:17.55 F1:2905.24
+-----------MLP-----------
+Training Data: (26478, 2)
+Testing Data: (2943, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:84.2 P:56.54 R:22.04 F1:3171.65
+---------------------------data_csv/2d/data19_20.csv-------------------------
+-----------DT-----------
+Training Data: (11317, 2)
+Testing Data: (1258, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.06 P:79.37 R:100.0 F1:8849.86
+-----------NB-----------
+Training Data: (11317, 2)
+Testing Data: (1258, 2)
+Model:GaussianNB()
+A:77.74 P:85.26 R:50.52 F1:6344.58
+-----------RF-----------
+Training Data: (11317, 2)
+Testing Data: (1258, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:94.83 P:94.07 R:92.31 F1:9318.17
+-----------MLP-----------
+Training Data: (11317, 2)
+Testing Data: (1258, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:74.17 P:75.16 R:48.44 F1:5891.18
+---------------------------data_csv/2d/data21_22.csv-------------------------
+-----------DT-----------
+Training Data: (28258, 2)
+Testing Data: (3140, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:67.9 P:69.75 R:58.15 F1:6342.4
+-----------NB-----------
+Training Data: (28258, 2)
+Testing Data: (3140, 2)
+Model:GaussianNB()
+A:60.19 P:56.05 R:77.98 F1:6522.09
+-----------RF-----------
+Training Data: (28258, 2)
+Testing Data: (3140, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:68.09 P:65.08 R:71.92 F1:6832.92
+-----------MLP-----------
+Training Data: (28258, 2)
+Testing Data: (3140, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:72.93 P:71.78 R:71.59 F1:7168.49
+---------------------------data_csv/2d/data23_24.csv-------------------------
+-----------DT-----------
+Training Data: (24388, 2)
+Testing Data: (2710, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:74.32 P:88.18 R:62.47 F1:7313.12
+-----------NB-----------
+Training Data: (24388, 2)
+Testing Data: (2710, 2)
+Model:GaussianNB()
+A:62.77 P:63.09 R:80.61 F1:7078.2
+-----------RF-----------
+Training Data: (24388, 2)
+Testing Data: (2710, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:80.63 P:87.68 R:76.06 F1:8145.77
+-----------MLP-----------
+Training Data: (24388, 2)
+Testing Data: (2710, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:62.44 P:92.35 R:35.82 F1:5161.86
+---------------------------data_csv/2d/data25_26.csv-------------------------
+-----------DT-----------
+Training Data: (26301, 2)
+Testing Data: (2923, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:61.2 P:59.05 R:92.09 F1:7195.86
+-----------NB-----------
+Training Data: (26301, 2)
+Testing Data: (2923, 2)
+Model:GaussianNB()
+A:54.19 P:54.66 R:89.49 F1:6786.71
+-----------RF-----------
+Training Data: (26301, 2)
+Testing Data: (2923, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:64.32 P:61.78 R:89.11 F1:7296.99
+-----------MLP-----------
+Training Data: (26301, 2)
+Testing Data: (2923, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:54.05 P:54.05 R:100.0 F1:7017.2
+---------------------------data_csv/2d/data27_28.csv-------------------------
+-----------DT-----------
+Training Data: (26601, 2)
+Testing Data: (2956, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:67.35 P:59.94 R:98.32 F1:7447.62
+-----------NB-----------
+Training Data: (26601, 2)
+Testing Data: (2956, 2)
+Model:GaussianNB()
+A:63.73 P:60.34 R:73.32 F1:6619.97
+-----------RF-----------
+Training Data: (26601, 2)
+Testing Data: (2956, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:69.89 P:62.64 R:93.78 F1:7511.03
+-----------MLP-----------
+Training Data: (26601, 2)
+Testing Data: (2956, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:68.71 P:62.04 R:91.2 F1:7384.56
+---------------------------data_csv/2d/data29_30.csv-------------------------
+-----------DT-----------
+Training Data: (33365, 2)
+Testing Data: (3708, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:64.48 P:66.68 R:70.64 F1:6860.29
+-----------NB-----------
+Training Data: (33365, 2)
+Testing Data: (3708, 2)
+Model:GaussianNB()
+A:55.66 P:55.91 R:91.26 F1:6933.95
+-----------RF-----------
+Training Data: (33365, 2)
+Testing Data: (3708, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:68.5 P:72.0 R:69.81 F1:7088.81
+-----------MLP-----------
+Training Data: (33365, 2)
+Testing Data: (3708, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:63.62 P:70.24 R:58.62 F1:6390.61
+---------------------------data_csv/2d/data31_32.csv-------------------------
+-----------DT-----------
+Training Data: (52713, 2)
+Testing Data: (5858, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:59.3 P:77.32 R:12.15 F1:2100.01
+-----------NB-----------
+Training Data: (52713, 2)
+Testing Data: (5858, 2)
+Model:GaussianNB()
+A:53.84 P:44.51 R:14.92 F1:2234.86
+-----------RF-----------
+Training Data: (52713, 2)
+Testing Data: (5858, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:64.99 P:81.61 R:27.57 F1:4121.61
+-----------MLP-----------
+Training Data: (52713, 2)
+Testing Data: (5858, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:57.0 P:58.41 R:11.85 F1:1970.28
+---------------------------data_csv/2d/data33_34.csv-------------------------
+-----------DT-----------
+Training Data: (36098, 2)
+Testing Data: (4011, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:74.2 P:73.08 R:82.87 F1:7766.77
+-----------NB-----------
+Training Data: (36098, 2)
+Testing Data: (4011, 2)
+Model:GaussianNB()
+A:69.33 P:67.07 R:85.22 F1:7506.34
+-----------RF-----------
+Training Data: (36098, 2)
+Testing Data: (4011, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:74.69 P:73.15 R:84.16 F1:7826.97
+-----------MLP-----------
+Training Data: (36098, 2)
+Testing Data: (4011, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:68.54 P:67.51 R:80.76 F1:7354.3
+---------------------------data_csv/2d/data35_36.csv-------------------------
+-----------DT-----------
+Training Data: (33033, 2)
+Testing Data: (3671, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:76.03 P:75.03 R:76.94 F1:7597.3
+-----------NB-----------
+Training Data: (33033, 2)
+Testing Data: (3671, 2)
+Model:GaussianNB()
+A:61.29 P:67.26 R:41.7 F1:5148.2
+-----------RF-----------
+Training Data: (33033, 2)
+Testing Data: (3671, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:76.85 P:75.42 R:78.6 F1:7697.72
+-----------MLP-----------
+Training Data: (33033, 2)
+Testing Data: (3671, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:74.69 P:76.49 R:70.19 F1:7320.47
+---------------------------data_csv/2d/data100_101.csv-------------------------
+-----------DT-----------
+Training Data: (16396, 2)
+Testing Data: (1822, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:76.07 P:87.75 R:72.43 F1:7935.74
+-----------NB-----------
+Training Data: (16396, 2)
+Testing Data: (1822, 2)
+Model:GaussianNB()
+A:75.63 P:77.4 R:87.04 F1:8193.74
+-----------RF-----------
+Training Data: (16396, 2)
+Testing Data: (1822, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:75.85 P:77.56 R:87.21 F1:8210.24
+-----------MLP-----------
+Training Data: (16396, 2)
+Testing Data: (1822, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:72.45 P:76.31 R:82.11 F1:7910.38
+---------------------------data_csv/2d/data102_103.csv-------------------------
+-----------DT-----------
+Training Data: (7774, 2)
+Testing Data: (864, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:77.89 P:67.61 R:98.21 F1:8008.66
+-----------NB-----------
+Training Data: (7774, 2)
+Testing Data: (864, 2)
+Model:GaussianNB()
+A:71.88 P:64.86 R:82.61 F1:7266.68
+-----------RF-----------
+Training Data: (7774, 2)
+Testing Data: (864, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:79.17 P:80.94 R:70.59 F1:7541.15
+-----------MLP-----------
+Training Data: (7774, 2)
+Testing Data: (864, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:75.93 P:75.77 R:68.8 F1:7211.7
+---------------------------data_csv/2d/data104_105.csv-------------------------
+-----------DT-----------
+Training Data: (11185, 2)
+Testing Data: (1243, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:68.06 P:100.0 R:22.16 F1:3628.03
+-----------NB-----------
+Training Data: (11185, 2)
+Testing Data: (1243, 2)
+Model:GaussianNB()
+A:60.1 P:54.22 R:17.65 F1:2663.09
+-----------RF-----------
+Training Data: (11185, 2)
+Testing Data: (1243, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:72.33 P:94.15 R:34.71 F1:5072.09
+-----------MLP-----------
+Training Data: (11185, 2)
+Testing Data: (1243, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:78.6 P:77.11 R:68.04 F1:7229.16
+---------------------------data_csv/2d/data106_107.csv-------------------------
+-----------DT-----------
+Training Data: (2168, 2)
+Testing Data: (241, 2)
+---------------------------data_csv/2d/data108_109.csv-------------------------
+-----------DT-----------
+Training Data: (6930, 2)
+Testing Data: (770, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------NB-----------
+Training Data: (6930, 2)
+Testing Data: (770, 2)
+Model:GaussianNB()
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------RF-----------
+Training Data: (6930, 2)
+Testing Data: (770, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------MLP-----------
+Training Data: (6930, 2)
+Testing Data: (770, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:100.0 P:100.0 R:100.0 F1:10000.0
+---------------------------data_csv/2d/data110_111.csv-------------------------
+-----------DT-----------
+Training Data: (12057, 2)
+Testing Data: (1340, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:82.54 P:80.5 R:97.31 F1:8811.04
+-----------NB-----------
+Training Data: (12057, 2)
+Testing Data: (1340, 2)
+Model:GaussianNB()
+A:73.36 P:73.54 R:93.6 F1:8236.62
+-----------RF-----------
+Training Data: (12057, 2)
+Testing Data: (1340, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:85.37 P:83.19 R:97.76 F1:8988.84
+-----------MLP-----------
+Training Data: (12057, 2)
+Testing Data: (1340, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:75.9 P:77.0 R:90.91 F1:8337.88
+---------------------------data_csv/2d/data112_113.csv-------------------------
+-----------DT-----------
+Training Data: (3249, 2)
+Testing Data: (362, 2)
+---------------------------data_csv/2d/data114_115.csv-------------------------
+-----------DT-----------
+Training Data: (7527, 2)
+Testing Data: (837, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:94.5 P:95.4 R:96.99 F1:9618.84
+-----------NB-----------
+Training Data: (7527, 2)
+Testing Data: (837, 2)
+Model:GaussianNB()
+A:70.61 P:71.29 R:98.66 F1:8277.11
+-----------RF-----------
+Training Data: (7527, 2)
+Testing Data: (837, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:94.5 P:95.4 R:96.99 F1:9618.84
+-----------MLP-----------
+Training Data: (7527, 2)
+Testing Data: (837, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:86.5 P:91.05 R:89.98 F1:9051.18
+---------------------------data_csv/2d/data116_117.csv-------------------------
+-----------DT-----------
+Training Data: (3231, 2)
+Testing Data: (359, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:80.5 P:100.0 R:41.67 F1:5882.69
+-----------NB-----------
+Training Data: (3231, 2)
+Testing Data: (359, 2)
+Model:GaussianNB()
+A:83.01 P:100.0 R:49.17 F1:6592.48
+-----------RF-----------
+Training Data: (3231, 2)
+Testing Data: (359, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:98.89 P:99.15 R:97.5 F1:9831.81
+-----------MLP-----------
+Training Data: (3231, 2)
+Testing Data: (359, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:96.94 P:98.23 R:92.5 F1:9527.89
+---------------------------data_csv/2d/data118_119.csv-------------------------
+-----------DT-----------
+Training Data: (3433, 2)
+Testing Data: (382, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------NB-----------
+Training Data: (3433, 2)
+Testing Data: (382, 2)
+Model:GaussianNB()
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------RF-----------
+Training Data: (3433, 2)
+Testing Data: (382, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------MLP-----------
+Training Data: (3433, 2)
+Testing Data: (382, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:68.32 P:68.32 R:100.0 F1:8117.87
+---------------------------data_csv/2d/data120_121.csv-------------------------
+-----------DT-----------
+Training Data: (4982, 2)
+Testing Data: (554, 2)
+---------------------------data_csv/2d/data122_123.csv-------------------------
+-----------DT-----------
+Training Data: (12113, 2)
+Testing Data: (1346, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:78.38 P:87.21 R:74.4 F1:8029.73
+-----------NB-----------
+Training Data: (12113, 2)
+Testing Data: (1346, 2)
+Model:GaussianNB()
+A:57.73 P:60.82 R:80.43 F1:6926.38
+-----------RF-----------
+Training Data: (12113, 2)
+Testing Data: (1346, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:85.88 P:87.89 R:88.33 F1:8810.95
+-----------MLP-----------
+Training Data: (12113, 2)
+Testing Data: (1346, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:80.98 P:86.6 R:80.3 F1:8333.11
+---------------------------data_csv/2d/data124_125.csv-------------------------
+-----------DT-----------
+Training Data: (12988, 2)
+Testing Data: (1444, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:78.81 P:68.93 R:90.28 F1:7817.35
+-----------NB-----------
+Training Data: (12988, 2)
+Testing Data: (1444, 2)
+Model:GaussianNB()
+A:67.87 P:59.47 R:73.97 F1:6593.22
+-----------RF-----------
+Training Data: (12988, 2)
+Testing Data: (1444, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:80.75 P:71.45 R:90.28 F1:7976.88
+-----------MLP-----------
+Training Data: (12988, 2)
+Testing Data: (1444, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:73.82 P:74.11 R:57.99 F1:6506.64
+---------------------------data_csv/2d/data126_127.csv-------------------------
+-----------DT-----------
+Training Data: (10835, 2)
+Testing Data: (1204, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:75.17 P:91.85 R:43.32 F1:5887.32
+-----------NB-----------
+Training Data: (10835, 2)
+Testing Data: (1204, 2)
+Model:GaussianNB()
+A:74.67 P:70.86 R:64.98 F1:6779.27
+-----------RF-----------
+Training Data: (10835, 2)
+Testing Data: (1204, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:74.25 P:71.2 R:62.55 F1:6659.53
+-----------MLP-----------
+Training Data: (10835, 2)
+Testing Data: (1204, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:66.36 P:58.32 R:63.16 F1:6064.36
+---------------------------data_csv/2d/data128_129.csv-------------------------
+-----------DT-----------
+Training Data: (11232, 2)
+Testing Data: (1248, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:81.09 P:96.52 R:32.36 F1:4846.97
+-----------NB-----------
+Training Data: (11232, 2)
+Testing Data: (1248, 2)
+Model:GaussianNB()
+A:72.52 P:nan R:0.0 F1:nan
+-----------RF-----------
+Training Data: (11232, 2)
+Testing Data: (1248, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:81.09 P:96.52 R:32.36 F1:4846.97
+-----------MLP-----------
+Training Data: (11232, 2)
+Testing Data: (1248, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:81.57 P:80.21 R:43.73 F1:5660.13
+---------------------------data_csv/2d/data130_131.csv-------------------------
+-----------DT-----------
+Training Data: (11000, 2)
+Testing Data: (1223, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:86.18 P:90.92 R:91.21 F1:9106.48
+-----------NB-----------
+Training Data: (11000, 2)
+Testing Data: (1223, 2)
+Model:GaussianNB()
+A:74.49 P:77.1 R:95.23 F1:8521.13
+-----------RF-----------
+Training Data: (11000, 2)
+Testing Data: (1223, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:89.45 P:88.05 R:99.89 F1:9359.7
+-----------MLP-----------
+Training Data: (11000, 2)
+Testing Data: (1223, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:87.49 P:87.7 R:97.46 F1:9232.28
+---------------------------data_csv/2d/data132_133.csv-------------------------
+-----------DT-----------
+Training Data: (6145, 2)
+Testing Data: (683, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:81.41 P:75.94 R:82.94 F1:7928.58
+-----------NB-----------
+Training Data: (6145, 2)
+Testing Data: (683, 2)
+Model:GaussianNB()
+A:71.89 P:63.05 R:83.28 F1:7176.66
+-----------RF-----------
+Training Data: (6145, 2)
+Testing Data: (683, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:86.09 P:88.67 R:77.47 F1:8269.25
+-----------MLP-----------
+Training Data: (6145, 2)
+Testing Data: (683, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:78.77 P:73.87 R:78.16 F1:7595.45
+---------------------------data_csv/2d/data134_135.csv-------------------------
+-----------DT-----------
+Training Data: (10563, 2)
+Testing Data: (1174, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:82.45 P:79.54 R:99.87 F1:8855.31
+-----------NB-----------
+Training Data: (10563, 2)
+Testing Data: (1174, 2)
+Model:GaussianNB()
+A:67.72 P:67.89 R:99.62 F1:8074.98
+-----------RF-----------
+Training Data: (10563, 2)
+Testing Data: (1174, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:82.37 P:79.52 R:99.75 F1:8849.36
+-----------MLP-----------
+Training Data: (10563, 2)
+Testing Data: (1174, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:80.66 P:79.1 R:97.24 F1:8723.7
+---------------------------data_csv/2d/data136_137.csv-------------------------
+-----------DT-----------
+Training Data: (13630, 2)
+Testing Data: (1515, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:79.93 P:80.68 R:75.73 F1:7812.67
+-----------NB-----------
+Training Data: (13630, 2)
+Testing Data: (1515, 2)
+Model:GaussianNB()
+A:62.64 P:61.15 R:57.74 F1:5939.61
+-----------RF-----------
+Training Data: (13630, 2)
+Testing Data: (1515, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:80.13 P:81.04 R:75.73 F1:7829.51
+-----------MLP-----------
+Training Data: (13630, 2)
+Testing Data: (1515, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:52.48 P:49.69 R:33.89 F1:4029.66
+---------------------------data_csv/2d/data138_139.csv-------------------------
+-----------DT-----------
+Training Data: (16317, 2)
+Testing Data: (1814, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:83.3 P:82.67 R:93.22 F1:8762.86
+-----------NB-----------
+Training Data: (16317, 2)
+Testing Data: (1814, 2)
+Model:GaussianNB()
+A:79.11 P:87.12 R:78.71 F1:8270.17
+-----------RF-----------
+Training Data: (16317, 2)
+Testing Data: (1814, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:97.35 P:96.54 R:99.39 F1:9794.43
+-----------MLP-----------
+Training Data: (16317, 2)
+Testing Data: (1814, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:77.29 P:98.68 R:65.07 F1:7842.57
+---------------------------data_csv/2d/data140_141.csv-------------------------
+-----------DT-----------
+Training Data: (23780, 2)
+Testing Data: (2643, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:70.15 P:97.62 R:32.11 F1:4832.46
+-----------NB-----------
+Training Data: (23780, 2)
+Testing Data: (2643, 2)
+Model:GaussianNB()
+A:62.01 P:68.08 R:23.76 F1:3522.61
+-----------RF-----------
+Training Data: (23780, 2)
+Testing Data: (2643, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:79.23 P:85.8 R:62.58 F1:7237.32
+-----------MLP-----------
+Training Data: (23780, 2)
+Testing Data: (2643, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:71.36 P:66.61 R:68.41 F1:6749.8
+---------------------------data_csv/2d/data142_143.csv-------------------------
+-----------DT-----------
+Training Data: (21749, 2)
+Testing Data: (2417, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:78.86 P:97.16 R:55.51 F1:7065.37
+-----------NB-----------
+Training Data: (21749, 2)
+Testing Data: (2417, 2)
+Model:GaussianNB()
+A:63.3 P:63.73 R:46.3 F1:5363.44
+-----------RF-----------
+Training Data: (21749, 2)
+Testing Data: (2417, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:78.98 P:95.87 R:56.59 F1:7116.99
+-----------MLP-----------
+Training Data: (21749, 2)
+Testing Data: (2417, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:81.88 P:82.78 R:76.35 F1:7943.51
+---------------------------data_csv/2d/data144_145.csv-------------------------
+-----------DT-----------
+Training Data: (19619, 2)
+Testing Data: (2180, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:94.82 P:100.0 R:84.79 F1:9176.9
+-----------NB-----------
+Training Data: (19619, 2)
+Testing Data: (2180, 2)
+Model:GaussianNB()
+A:92.75 P:95.77 R:82.37 F1:8856.6
+-----------RF-----------
+Training Data: (19619, 2)
+Testing Data: (2180, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:94.82 P:100.0 R:84.79 F1:9176.9
+-----------MLP-----------
+Training Data: (19619, 2)
+Testing Data: (2180, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:93.53 P:92.28 R:88.43 F1:9031.4
+---------------------------data_csv/2d/data146_147.csv-------------------------
+-----------DT-----------
+Training Data: (11096, 2)
+Testing Data: (1233, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:94.0 P:100.0 R:87.93 F1:9357.74
+-----------NB-----------
+Training Data: (11096, 2)
+Testing Data: (1233, 2)
+Model:GaussianNB()
+A:56.77 P:54.94 R:72.59 F1:6254.36
+-----------RF-----------
+Training Data: (11096, 2)
+Testing Data: (1233, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:98.05 P:96.23 R:100.0 F1:9807.88
+-----------MLP-----------
+Training Data: (11096, 2)
+Testing Data: (1233, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:79.32 P:74.66 R:88.42 F1:8095.95
+---------------------------data_csv/2d/data148_149.csv-------------------------
+-----------DT-----------
+Training Data: (20160, 2)
+Testing Data: (2240, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:73.26 P:69.67 R:94.55 F1:8022.53
+-----------NB-----------
+Training Data: (20160, 2)
+Testing Data: (2240, 2)
+Model:GaussianNB()
+A:55.71 P:59.92 R:68.87 F1:6408.4
+-----------RF-----------
+Training Data: (20160, 2)
+Testing Data: (2240, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:78.62 P:75.9 R:91.91 F1:8314.13
+-----------MLP-----------
+Training Data: (20160, 2)
+Testing Data: (2240, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:75.58 P:78.25 R:79.53 F1:7888.48
+---------------------------data_csv/2d/data150_151.csv-------------------------
+-----------DT-----------
+Training Data: (8726, 2)
+Testing Data: (970, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:94.12 P:91.38 R:97.55 F1:9436.43
+-----------NB-----------
+Training Data: (8726, 2)
+Testing Data: (970, 2)
+Model:GaussianNB()
+A:82.78 P:82.07 R:84.25 F1:8314.57
+-----------RF-----------
+Training Data: (8726, 2)
+Testing Data: (970, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:93.3 P:91.25 R:95.91 F1:9352.2
+-----------MLP-----------
+Training Data: (8726, 2)
+Testing Data: (970, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:85.57 P:82.99 R:89.78 F1:8625.16
+---------------------------data_csv/2d/data152_153.csv-------------------------
+-----------DT-----------
+Training Data: (5477, 2)
+Testing Data: (609, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:96.72 P:100.0 R:94.64 F1:9724.62
+-----------NB-----------
+Training Data: (5477, 2)
+Testing Data: (609, 2)
+Model:GaussianNB()
+A:66.67 P:73.61 R:71.05 F1:7230.73
+-----------RF-----------
+Training Data: (5477, 2)
+Testing Data: (609, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:96.39 P:100.0 R:94.1 F1:9696.03
+-----------MLP-----------
+Training Data: (5477, 2)
+Testing Data: (609, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:85.55 P:94.95 R:80.7 F1:8724.7
+---------------------------data_csv/2d/data1_154.csv-------------------------
+-----------DT-----------
+Training Data: (29698, 2)
+Testing Data: (3300, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:91.15 P:78.96 R:51.8 F1:6255.93
+-----------NB-----------
+Training Data: (29698, 2)
+Testing Data: (3300, 2)
+Model:GaussianNB()
+A:87.12 P:54.94 R:54.35 F1:5464.34
+-----------RF-----------
+Training Data: (29698, 2)
+Testing Data: (3300, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:91.33 P:83.64 R:48.83 F1:6166.14
+-----------MLP-----------
+Training Data: (29698, 2)
+Testing Data: (3300, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:90.58 P:87.04 R:39.92 F1:5473.59
+---------------------------data_csv/2d/data2_153.csv-------------------------
+-----------DT-----------
+Training Data: (26348, 2)
+Testing Data: (2928, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:93.89 P:100.0 R:51.88 F1:6831.71
+-----------NB-----------
+Training Data: (26348, 2)
+Testing Data: (2928, 2)
+Model:GaussianNB()
+A:90.57 P:66.0 R:53.23 F1:5893.11
+-----------RF-----------
+Training Data: (26348, 2)
+Testing Data: (2928, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:93.89 P:100.0 R:51.88 F1:6831.71
+-----------MLP-----------
+Training Data: (26348, 2)
+Testing Data: (2928, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:94.5 P:86.76 R:66.94 F1:7557.21
+---------------------------data_csv/2d/data3_152.csv-------------------------
+-----------DT-----------
+Training Data: (23630, 2)
+Testing Data: (2626, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:91.74 P:80.65 R:10.59 F1:1872.17
+-----------NB-----------
+Training Data: (23630, 2)
+Testing Data: (2626, 2)
+Model:GaussianNB()
+A:91.01 P:nan R:0.0 F1:nan
+-----------RF-----------
+Training Data: (23630, 2)
+Testing Data: (2626, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:91.85 P:82.35 R:11.86 F1:2073.39
+-----------MLP-----------
+Training Data: (23630, 2)
+Testing Data: (2626, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:94.63 P:97.98 R:41.1 F1:5790.88
+---------------------------data_csv/2d/data4_151.csv-------------------------
+-----------DT-----------
+Training Data: (27309, 2)
+Testing Data: (3035, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:92.13 P:83.42 R:63.8 F1:7230.26
+-----------NB-----------
+Training Data: (27309, 2)
+Testing Data: (3035, 2)
+Model:GaussianNB()
+A:84.18 P:50.7 R:66.67 F1:5759.85
+-----------RF-----------
+Training Data: (27309, 2)
+Testing Data: (3035, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:92.39 P:93.0 R:57.06 F1:7072.61
+-----------MLP-----------
+Training Data: (27309, 2)
+Testing Data: (3035, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:89.92 P:79.8 R:50.1 F1:6155.47
+---------------------------data_csv/2d/data5_150.csv-------------------------
+-----------DT-----------
+Training Data: (29963, 2)
+Testing Data: (3330, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:92.91 P:100.0 R:50.94 F1:6749.7
+-----------NB-----------
+Training Data: (29963, 2)
+Testing Data: (3330, 2)
+Model:GaussianNB()
+A:85.5 P:49.61 R:26.2 F1:3429.05
+-----------RF-----------
+Training Data: (29963, 2)
+Testing Data: (3330, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:92.91 P:100.0 R:50.94 F1:6749.7
+-----------MLP-----------
+Training Data: (29963, 2)
+Testing Data: (3330, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:87.96 P:73.26 R:26.2 F1:3859.67
+---------------------------data_csv/2d/data6_149.csv-------------------------
+-----------DT-----------
+Training Data: (34605, 2)
+Testing Data: (3846, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.15 P:77.24 R:100.0 F1:8715.87
+-----------NB-----------
+Training Data: (34605, 2)
+Testing Data: (3846, 2)
+Model:GaussianNB()
+A:85.08 P:73.03 R:87.79 F1:7973.27
+-----------RF-----------
+Training Data: (34605, 2)
+Testing Data: (3846, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:90.15 P:77.24 R:100.0 F1:8715.87
+-----------MLP-----------
+Training Data: (34605, 2)
+Testing Data: (3846, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:90.82 P:81.71 R:93.47 F1:8719.53
+---------------------------data_csv/2d/data7_148.csv-------------------------
+-----------DT-----------
+Training Data: (34794, 2)
+Testing Data: (3867, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.56 P:77.47 R:87.12 F1:8201.21
+-----------NB-----------
+Training Data: (34794, 2)
+Testing Data: (3867, 2)
+Model:GaussianNB()
+A:81.85 P:61.05 R:73.19 F1:6657.11
+-----------RF-----------
+Training Data: (34794, 2)
+Testing Data: (3867, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:90.48 P:78.19 R:85.24 F1:8156.29
+-----------MLP-----------
+Training Data: (34794, 2)
+Testing Data: (3867, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:92.29 P:82.3 R:87.64 F1:8488.61
+---------------------------data_csv/2d/data8_147.csv-------------------------
+-----------DT-----------
+Training Data: (27828, 2)
+Testing Data: (3092, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:96.99 P:96.1 R:88.42 F1:9210.02
+-----------NB-----------
+Training Data: (27828, 2)
+Testing Data: (3092, 2)
+Model:GaussianNB()
+A:94.21 P:80.14 R:94.13 F1:8657.35
+-----------RF-----------
+Training Data: (27828, 2)
+Testing Data: (3092, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:97.51 P:88.84 R:100.0 F1:9409.02
+-----------MLP-----------
+Training Data: (27828, 2)
+Testing Data: (3092, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:96.12 P:87.52 R:93.8 F1:9055.12
+---------------------------data_csv/2d/data9_146.csv-------------------------
+-----------DT-----------
+Training Data: (26103, 2)
+Testing Data: (2901, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:85.01 P:95.57 R:31.29 F1:4714.47
+-----------NB-----------
+Training Data: (26103, 2)
+Testing Data: (2901, 2)
+Model:GaussianNB()
+A:81.45 P:59.28 R:42.26 F1:4934.36
+-----------RF-----------
+Training Data: (26103, 2)
+Testing Data: (2901, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:84.94 P:94.63 R:31.29 F1:4702.94
+-----------MLP-----------
+Training Data: (26103, 2)
+Testing Data: (2901, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:82.11 P:80.98 R:21.29 F1:3371.59
+---------------------------data_csv/2d/data10_145.csv-------------------------
+-----------DT-----------
+Training Data: (25472, 2)
+Testing Data: (2831, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:98.8 P:98.63 R:96.77 F1:9769.11
+-----------NB-----------
+Training Data: (25472, 2)
+Testing Data: (2831, 2)
+Model:GaussianNB()
+A:93.61 P:89.8 R:85.33 F1:8750.8
+-----------RF-----------
+Training Data: (25472, 2)
+Testing Data: (2831, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:99.65 P:98.67 R:100.0 F1:9933.05
+-----------MLP-----------
+Training Data: (25472, 2)
+Testing Data: (2831, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:94.98 P:89.7 R:91.39 F1:9053.71
+---------------------------data_csv/2d/data11_144.csv-------------------------
+-----------DT-----------
+Training Data: (32850, 2)
+Testing Data: (3650, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:93.64 P:86.85 R:98.82 F1:9244.92
+-----------NB-----------
+Training Data: (32850, 2)
+Testing Data: (3650, 2)
+Model:GaussianNB()
+A:69.62 P:86.12 R:27.21 F1:4135.4
+-----------RF-----------
+Training Data: (32850, 2)
+Testing Data: (3650, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:93.64 P:86.85 R:98.82 F1:9244.92
+-----------MLP-----------
+Training Data: (32850, 2)
+Testing Data: (3650, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:86.33 P:83.84 R:80.86 F1:8232.3
+---------------------------data_csv/2d/data12_143.csv-------------------------
+-----------DT-----------
+Training Data: (29821, 2)
+Testing Data: (3314, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:73.99 P:60.02 R:66.52 F1:6310.31
+-----------NB-----------
+Training Data: (29821, 2)
+Testing Data: (3314, 2)
+Model:GaussianNB()
+A:75.32 P:80.33 R:34.66 F1:4842.57
+-----------RF-----------
+Training Data: (29821, 2)
+Testing Data: (3314, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:77.37 P:88.25 R:37.27 F1:5240.72
+-----------MLP-----------
+Training Data: (29821, 2)
+Testing Data: (3314, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:76.86 P:77.19 R:43.68 F1:5578.98
+---------------------------data_csv/2d/data13_142.csv-------------------------
+-----------DT-----------
+Training Data: (31212, 2)
+Testing Data: (3469, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:87.86 P:97.23 R:69.82 F1:8127.62
+-----------NB-----------
+Training Data: (31212, 2)
+Testing Data: (3469, 2)
+Model:GaussianNB()
+A:69.76 P:65.37 R:42.25 F1:5132.66
+-----------RF-----------
+Training Data: (31212, 2)
+Testing Data: (3469, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:88.64 P:96.83 R:72.27 F1:8276.65
+-----------MLP-----------
+Training Data: (31212, 2)
+Testing Data: (3469, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:72.44 P:75.84 R:39.57 F1:5200.57
+---------------------------data_csv/2d/data14_141.csv-------------------------
+-----------DT-----------
+Training Data: (30304, 2)
+Testing Data: (3368, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:79.57 P:89.0 R:45.78 F1:6046.03
+-----------NB-----------
+Training Data: (30304, 2)
+Testing Data: (3368, 2)
+Model:GaussianNB()
+A:76.37 P:75.25 R:45.78 F1:5692.71
+-----------RF-----------
+Training Data: (30304, 2)
+Testing Data: (3368, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:79.57 P:89.0 R:45.78 F1:6046.03
+-----------MLP-----------
+Training Data: (30304, 2)
+Testing Data: (3368, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:74.38 P:74.24 R:38.12 F1:5037.43
+---------------------------data_csv/2d/data15_140.csv-------------------------
+-----------DT-----------
+Training Data: (32732, 2)
+Testing Data: (3637, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:69.32 P:64.31 R:56.73 F1:6028.27
+-----------NB-----------
+Training Data: (32732, 2)
+Testing Data: (3637, 2)
+Model:GaussianNB()
+A:60.08 P:52.07 R:34.56 F1:4154.54
+-----------RF-----------
+Training Data: (32732, 2)
+Testing Data: (3637, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:76.9 P:84.33 R:53.72 F1:6563.14
+-----------MLP-----------
+Training Data: (32732, 2)
+Testing Data: (3637, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:70.42 P:63.15 R:67.05 F1:6504.16
+---------------------------data_csv/2d/data16_139.csv-------------------------
+-----------DT-----------
+Training Data: (29079, 2)
+Testing Data: (3232, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:74.47 P:98.51 R:28.76 F1:4452.18
+-----------NB-----------
+Training Data: (29079, 2)
+Testing Data: (3232, 2)
+Model:GaussianNB()
+A:64.39 P:50.0 R:22.15 F1:3069.99
+-----------RF-----------
+Training Data: (29079, 2)
+Testing Data: (3232, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:76.58 P:75.13 R:51.17 F1:6087.73
+-----------MLP-----------
+Training Data: (29079, 2)
+Testing Data: (3232, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:74.94 P:70.42 R:51.09 F1:5921.75
+---------------------------data_csv/2d/data17_138.csv-------------------------
+-----------DT-----------
+Training Data: (28033, 2)
+Testing Data: (3115, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:86.04 P:98.71 R:34.74 F1:5139.28
+-----------NB-----------
+Training Data: (28033, 2)
+Testing Data: (3115, 2)
+Model:GaussianNB()
+A:74.16 P:37.07 R:30.97 F1:3374.66
+-----------RF-----------
+Training Data: (28033, 2)
+Testing Data: (3115, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:91.24 P:100.0 R:58.76 F1:7402.37
+-----------MLP-----------
+Training Data: (28033, 2)
+Testing Data: (3115, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:83.56 P:72.19 R:36.86 F1:4880.19
+---------------------------data_csv/2d/data18_137.csv-------------------------
+-----------DT-----------
+Training Data: (10856, 2)
+Testing Data: (1207, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:97.68 P:99.0 R:97.07 F1:9802.55
+-----------NB-----------
+Training Data: (10856, 2)
+Testing Data: (1207, 2)
+Model:GaussianNB()
+A:79.2 P:74.07 R:100.0 F1:8510.37
+-----------RF-----------
+Training Data: (10856, 2)
+Testing Data: (1207, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:97.68 P:99.0 R:97.07 F1:9802.55
+-----------MLP-----------
+Training Data: (10856, 2)
+Testing Data: (1207, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:97.68 P:99.0 R:97.07 F1:9802.55
+---------------------------data_csv/2d/data19_136.csv-------------------------
+-----------DT-----------
+Training Data: (14167, 2)
+Testing Data: (1575, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:86.48 P:79.1 R:99.62 F1:8818.2
+-----------NB-----------
+Training Data: (14167, 2)
+Testing Data: (1575, 2)
+Model:GaussianNB()
+A:77.02 P:73.7 R:84.96 F1:7893.04
+-----------RF-----------
+Training Data: (14167, 2)
+Testing Data: (1575, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:87.05 P:79.82 R:99.62 F1:8862.76
+-----------MLP-----------
+Training Data: (14167, 2)
+Testing Data: (1575, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:85.27 P:78.53 R:97.62 F1:8704.06
+---------------------------data_csv/2d/data20_135.csv-------------------------
+-----------DT-----------
+Training Data: (11508, 2)
+Testing Data: (1279, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:95.0 P:92.77 R:99.75 F1:9613.35
+-----------NB-----------
+Training Data: (11508, 2)
+Testing Data: (1279, 2)
+Model:GaussianNB()
+A:84.68 P:89.5 R:85.46 F1:8743.34
+-----------RF-----------
+Training Data: (11508, 2)
+Testing Data: (1279, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:97.5 P:96.14 R:100.0 F1:9803.2
+-----------MLP-----------
+Training Data: (11508, 2)
+Testing Data: (1279, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:88.12 P:88.36 R:93.23 F1:9072.97
+---------------------------data_csv/2d/data21_134.csv-------------------------
+-----------DT-----------
+Training Data: (18112, 2)
+Testing Data: (2013, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:85.49 P:80.0 R:29.79 F1:4341.38
+-----------NB-----------
+Training Data: (18112, 2)
+Testing Data: (2013, 2)
+Model:GaussianNB()
+A:82.12 P:54.49 R:25.8 F1:3501.91
+-----------RF-----------
+Training Data: (18112, 2)
+Testing Data: (2013, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:86.89 P:100.0 R:29.79 F1:4590.49
+-----------MLP-----------
+Training Data: (18112, 2)
+Testing Data: (2013, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:81.87 P:56.79 R:12.23 F1:2012.58
+---------------------------data_csv/2d/data22_133.csv-------------------------
+-----------DT-----------
+Training Data: (16167, 2)
+Testing Data: (1797, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:91.82 P:74.83 R:75.09 F1:7495.98
+-----------NB-----------
+Training Data: (16167, 2)
+Testing Data: (1797, 2)
+Model:GaussianNB()
+A:82.03 P:14.29 R:2.05 F1:358.56
+-----------RF-----------
+Training Data: (16167, 2)
+Testing Data: (1797, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:88.31 P:82.17 R:36.18 F1:5023.93
+-----------MLP-----------
+Training Data: (16167, 2)
+Testing Data: (1797, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:83.7 P:nan R:0.0 F1:nan
+---------------------------data_csv/2d/data23_132.csv-------------------------
+-----------DT-----------
+Training Data: (14256, 2)
+Testing Data: (1585, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:75.39 P:nan R:0.0 F1:nan
+-----------NB-----------
+Training Data: (14256, 2)
+Testing Data: (1585, 2)
+Model:GaussianNB()
+A:70.28 P:30.81 R:16.67 F1:2163.45
+-----------RF-----------
+Training Data: (14256, 2)
+Testing Data: (1585, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:81.32 P:87.3 R:28.21 F1:4264.1
+-----------MLP-----------
+Training Data: (14256, 2)
+Testing Data: (1585, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:77.1 P:56.59 R:29.74 F1:3898.96
+---------------------------data_csv/2d/data24_131.csv-------------------------
+-----------DT-----------
+Training Data: (22128, 2)
+Testing Data: (2459, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.89 P:85.56 R:91.73 F1:8853.76
+-----------NB-----------
+Training Data: (22128, 2)
+Testing Data: (2459, 2)
+Model:GaussianNB()
+A:81.05 P:76.95 R:72.22 F1:7451.0
+-----------RF-----------
+Training Data: (22128, 2)
+Testing Data: (2459, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:92.56 P:83.75 R:100.0 F1:9115.65
+-----------MLP-----------
+Training Data: (22128, 2)
+Testing Data: (2459, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:84.38 P:72.71 R:94.91 F1:8233.99
+---------------------------data_csv/2d/data25_130.csv-------------------------
+-----------DT-----------
+Training Data: (14599, 2)
+Testing Data: (1623, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:96.43 P:83.38 R:98.92 F1:9048.77
+-----------NB-----------
+Training Data: (14599, 2)
+Testing Data: (1623, 2)
+Model:GaussianNB()
+A:90.51 P:72.4 R:72.4 F1:7240.0
+-----------RF-----------
+Training Data: (14599, 2)
+Testing Data: (1623, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:96.43 P:83.38 R:98.92 F1:9048.77
+-----------MLP-----------
+Training Data: (14599, 2)
+Testing Data: (1623, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:87.92 P:59.41 R:93.91 F1:7277.84
+---------------------------data_csv/2d/data26_129.csv-------------------------
+-----------DT-----------
+Training Data: (17298, 2)
+Testing Data: (1922, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:95.68 P:80.52 R:100.0 F1:8920.9
+-----------NB-----------
+Training Data: (17298, 2)
+Testing Data: (1922, 2)
+Model:GaussianNB()
+A:87.57 P:65.85 R:62.97 F1:6437.78
+-----------RF-----------
+Training Data: (17298, 2)
+Testing Data: (1922, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:95.73 P:80.71 R:100.0 F1:8932.54
+-----------MLP-----------
+Training Data: (17298, 2)
+Testing Data: (1922, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:95.68 P:80.66 R:99.71 F1:8917.9
+---------------------------data_csv/2d/data27_128.csv-------------------------
+-----------DT-----------
+Training Data: (21864, 2)
+Testing Data: (2430, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.21 P:80.18 R:97.9 F1:8815.84
+-----------NB-----------
+Training Data: (21864, 2)
+Testing Data: (2430, 2)
+Model:GaussianNB()
+A:85.39 P:78.23 R:84.2 F1:8110.53
+-----------RF-----------
+Training Data: (21864, 2)
+Testing Data: (2430, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:90.21 P:80.18 R:97.9 F1:8815.84
+-----------MLP-----------
+Training Data: (21864, 2)
+Testing Data: (2430, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:86.13 P:74.48 R:95.47 F1:8367.88
+---------------------------data_csv/2d/data28_127.csv-------------------------
+-----------DT-----------
+Training Data: (17330, 2)
+Testing Data: (1926, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:91.33 P:75.67 R:97.57 F1:8523.58
+-----------NB-----------
+Training Data: (17330, 2)
+Testing Data: (1926, 2)
+Model:GaussianNB()
+A:84.58 P:64.68 R:87.85 F1:7450.52
+-----------RF-----------
+Training Data: (17330, 2)
+Testing Data: (1926, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:91.33 P:75.67 R:97.57 F1:8523.58
+-----------MLP-----------
+Training Data: (17330, 2)
+Testing Data: (1926, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:83.54 P:65.61 R:75.3 F1:7012.18
+---------------------------data_csv/2d/data29_126.csv-------------------------
+-----------DT-----------
+Training Data: (21423, 2)
+Testing Data: (2381, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:84.12 P:79.43 R:63.1 F1:7032.95
+-----------NB-----------
+Training Data: (21423, 2)
+Testing Data: (2381, 2)
+Model:GaussianNB()
+A:77.28 P:60.6 R:68.03 F1:6410.04
+-----------RF-----------
+Training Data: (21423, 2)
+Testing Data: (2381, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:88.49 P:83.13 R:77.04 F1:7996.92
+-----------MLP-----------
+Training Data: (21423, 2)
+Testing Data: (2381, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:81.9 P:63.99 R:89.86 F1:7475.0
+---------------------------data_csv/2d/data30_125.csv-------------------------
+-----------DT-----------
+Training Data: (23792, 2)
+Testing Data: (2644, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:88.88 P:80.04 R:68.7 F1:7393.77
+-----------NB-----------
+Training Data: (23792, 2)
+Testing Data: (2644, 2)
+Model:GaussianNB()
+A:84.04 P:62.38 R:76.77 F1:6883.09
+-----------RF-----------
+Training Data: (23792, 2)
+Testing Data: (2644, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:89.75 P:82.68 R:70.02 F1:7582.52
+-----------MLP-----------
+Training Data: (23792, 2)
+Testing Data: (2644, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:80.86 P:61.66 R:43.99 F1:5134.73
+---------------------------data_csv/2d/data31_124.csv-------------------------
+-----------DT-----------
+Training Data: (36771, 2)
+Testing Data: (4086, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:88.42 P:69.75 R:76.67 F1:7304.65
+-----------NB-----------
+Training Data: (36771, 2)
+Testing Data: (4086, 2)
+Model:GaussianNB()
+A:74.28 P:22.78 R:10.77 F1:1462.54
+-----------RF-----------
+Training Data: (36771, 2)
+Testing Data: (4086, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:82.79 P:100.0 R:15.91 F1:2745.23
+-----------MLP-----------
+Training Data: (36771, 2)
+Testing Data: (4086, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:84.9 P:62.34 R:66.15 F1:6418.85
+---------------------------data_csv/2d/data32_123.csv-------------------------
+-----------DT-----------
+Training Data: (30638, 2)
+Testing Data: (3405, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:88.63 P:83.39 R:64.24 F1:7257.3
+-----------NB-----------
+Training Data: (30638, 2)
+Testing Data: (3405, 2)
+Model:GaussianNB()
+A:71.78 P:33.6 R:21.08 F1:2590.67
+-----------RF-----------
+Training Data: (30638, 2)
+Testing Data: (3405, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:88.02 P:76.98 R:69.64 F1:7312.63
+-----------MLP-----------
+Training Data: (30638, 2)
+Testing Data: (3405, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:79.85 P:56.71 R:58.85 F1:5776.02
+---------------------------data_csv/2d/data33_122.csv-------------------------
+-----------DT-----------
+Training Data: (21498, 2)
+Testing Data: (2389, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:83.97 P:69.67 R:53.55 F1:6055.56
+-----------NB-----------
+Training Data: (21498, 2)
+Testing Data: (2389, 2)
+Model:GaussianNB()
+A:77.02 P:50.0 R:41.89 F1:4558.71
+-----------RF-----------
+Training Data: (21498, 2)
+Testing Data: (2389, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:84.43 P:71.53 R:53.55 F1:6124.77
+-----------MLP-----------
+Training Data: (21498, 2)
+Testing Data: (2389, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:79.78 P:71.43 R:20.04 F1:3129.89
+---------------------------data_csv/2d/data34_121.csv-------------------------
+-----------DT-----------
+Training Data: (24525, 2)
+Testing Data: (2726, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:86.57 P:63.66 R:79.06 F1:7052.91
+-----------NB-----------
+Training Data: (24525, 2)
+Testing Data: (2726, 2)
+Model:GaussianNB()
+A:86.39 P:63.68 R:76.9 F1:6966.84
+-----------RF-----------
+Training Data: (24525, 2)
+Testing Data: (2726, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:86.39 P:64.14 R:74.91 F1:6910.79
+-----------MLP-----------
+Training Data: (24525, 2)
+Testing Data: (2726, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:87.16 P:72.37 R:59.57 F1:6534.91
+---------------------------data_csv/2d/data35_120.csv-------------------------
+-----------DT-----------
+Training Data: (16767, 2)
+Testing Data: (1863, 2)
+---------------------------data_csv/2d/data36_119.csv-------------------------
+-----------DT-----------
+Training Data: (18615, 2)
+Testing Data: (2069, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:90.29 P:67.86 R:43.68 F1:5314.91
+-----------NB-----------
+Training Data: (18615, 2)
+Testing Data: (2069, 2)
+Model:GaussianNB()
+A:83.86 P:0.0 R:0.0 F1:nan
+-----------RF-----------
+Training Data: (18615, 2)
+Testing Data: (2069, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:91.01 P:73.58 R:44.83 F1:5571.47
+-----------MLP-----------
+Training Data: (18615, 2)
+Testing Data: (2069, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:88.59 P:59.69 R:29.5 F1:3948.55
+---------------------------data_csv/2d/data100_118.csv-------------------------
+-----------DT-----------
+Training Data: (7065, 2)
+Testing Data: (785, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:91.21 P:63.49 R:100.0 F1:7766.84
+-----------NB-----------
+Training Data: (7065, 2)
+Testing Data: (785, 2)
+Model:GaussianNB()
+A:99.87 P:100.0 R:99.17 F1:9958.33
+-----------RF-----------
+Training Data: (7065, 2)
+Testing Data: (785, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:100.0 P:100.0 R:100.0 F1:10000.0
+-----------MLP-----------
+Training Data: (7065, 2)
+Testing Data: (785, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:100.0 P:100.0 R:100.0 F1:10000.0
+---------------------------data_csv/2d/data101_117.csv-------------------------
+-----------DT-----------
+Training Data: (11494, 2)
+Testing Data: (1278, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:93.9 P:100.0 R:35.0 F1:5185.19
+-----------NB-----------
+Training Data: (11494, 2)
+Testing Data: (1278, 2)
+Model:GaussianNB()
+A:93.9 P:100.0 R:35.0 F1:5185.19
+-----------RF-----------
+Training Data: (11494, 2)
+Testing Data: (1278, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:93.9 P:100.0 R:35.0 F1:5185.19
+-----------MLP-----------
+Training Data: (11494, 2)
+Testing Data: (1278, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:96.56 P:95.24 R:66.67 F1:7843.43
+---------------------------data_csv/2d/data102_116.csv-------------------------
+-----------DT-----------
+Training Data: (6403, 2)
+Testing Data: (712, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:99.44 P:99.58 R:98.74 F1:9915.82
+-----------NB-----------
+Training Data: (6403, 2)
+Testing Data: (712, 2)
+Model:GaussianNB()
+A:92.28 P:98.94 R:77.82 F1:8711.82
+-----------RF-----------
+Training Data: (6403, 2)
+Testing Data: (712, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:97.75 P:94.42 R:99.16 F1:9673.2
+-----------MLP-----------
+Training Data: (6403, 2)
+Testing Data: (712, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:94.1 P:93.01 R:89.12 F1:9102.35
+---------------------------data_csv/2d/data103_115.csv-------------------------
+-----------DT-----------
+Training Data: (8909, 2)
+Testing Data: (990, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:99.8 P:99.67 R:100.0 F1:9983.47
+-----------NB-----------
+Training Data: (8909, 2)
+Testing Data: (990, 2)
+Model:GaussianNB()
+A:88.48 P:90.76 R:90.15 F1:9045.4
+-----------RF-----------
+Training Data: (8909, 2)
+Testing Data: (990, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:93.94 P:93.82 R:96.33 F1:9505.84
+-----------MLP-----------
+Training Data: (8909, 2)
+Testing Data: (990, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:90.91 P:89.46 R:96.33 F1:9276.8
+---------------------------data_csv/2d/data104_114.csv-------------------------
+-----------DT-----------
+Training Data: (8734, 2)
+Testing Data: (971, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:87.85 P:100.0 R:50.42 F1:6703.9
+-----------NB-----------
+Training Data: (8734, 2)
+Testing Data: (971, 2)
+Model:GaussianNB()
+A:75.49 P:nan R:0.0 F1:nan
+-----------RF-----------
+Training Data: (8734, 2)
+Testing Data: (971, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:87.85 P:100.0 R:50.42 F1:6703.9
+-----------MLP-----------
+Training Data: (8734, 2)
+Testing Data: (971, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:78.68 P:59.51 R:40.76 F1:4838.19
+---------------------------data_csv/2d/data105_113.csv-------------------------
+-----------DT-----------
+Training Data: (7841, 2)
+Testing Data: (872, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:85.67 P:74.28 R:100.0 F1:8524.21
+-----------NB-----------
+Training Data: (7841, 2)
+Testing Data: (872, 2)
+Model:GaussianNB()
+A:88.42 P:79.41 R:97.23 F1:8742.11
+-----------RF-----------
+Training Data: (7841, 2)
+Testing Data: (872, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:86.93 P:85.19 R:82.83 F1:8399.34
+-----------MLP-----------
+Training Data: (7841, 2)
+Testing Data: (872, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:71.1 P:64.23 R:68.14 F1:6612.73
+---------------------------data_csv/2d/data106_112.csv-------------------------
+-----------DT-----------
+Training Data: (2168, 2)
+Testing Data: (241, 2)
+---------------------------data_csv/2d/data107_111.csv-------------------------
+-----------DT-----------
+Training Data: (8019, 2)
+Testing Data: (891, 2)
+---------------------------data_csv/2d/data108_110.csv-------------------------
+-----------DT-----------
+Training Data: (8798, 2)
+Testing Data: (978, 2)
+Model:DecisionTreeClassifier(max_depth=2)
+A:78.94 P:72.63 R:86.86 F1:7911.02
+-----------NB-----------
+Training Data: (8798, 2)
+Testing Data: (978, 2)
+Model:GaussianNB()
+A:64.93 P:62.99 R:57.24 F1:5997.75
+-----------RF-----------
+Training Data: (8798, 2)
+Testing Data: (978, 2)
+Model:RandomForestClassifier(max_depth=2, random_state=0)
+A:81.49 P:100.0 R:59.69 F1:7475.73
+-----------MLP-----------
+Training Data: (8798, 2)
+Testing Data: (978, 2)
+Model:MLPClassifier(alpha=1e-05, hidden_layer_sizes=(30, 10), max_iter=5000,
+              random_state=1, solver='lbfgs')
+A:65.75 P:66.1 R:52.12 F1:5828.34
